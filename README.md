@@ -1,22 +1,22 @@
-<!-- ========================================================= -->
-<!--  Jackson Yowe ¬∑ GitHub profile README                     -->
-<!--  Themed to the "JY Design System"                         -->
-<!--  bg #07070a ¬∑ ice #7df9ff ¬∑ lavender #b8b4ff ¬∑ rose #ff5a8c -->
-<!-- ========================================================= -->
+<!-- ============================================================ -->
+<!--  Jackson Yowe - GitHub profile README                        -->
+<!--  Themed to the "JY Design System"                            -->
+<!--  bg 07070a / ice 7df9ff / lavender b8b4ff / rose ff5a8c      -->
+<!-- ============================================================ -->
 
-<!-- ‚ñë‚ñë ANIMATED WAVING BANNER ‚ñë‚ñë -->
+<!-- ANIMATED WAVING BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07070a,55:7df9ff,100:b8b4ff&height=210&section=header&text=Jackson%20Yowe&fontColor=f5f1ea&fontSize=64&fontAlignY=36&animation=fadeIn&desc=Student%20¬∑%20AI%20%26%20homelab%20¬∑%20IRB%20crew%20%40%20Merewether%20SLSC&descSize=17&descAlignY=58" alt="Jackson Yowe" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07070a,55:7df9ff,100:b8b4ff&height=210&section=header&text=Jackson%20Yowe&fontColor=f5f1ea&fontSize=64&fontAlignY=36&animation=fadeIn&desc=Student%20%C2%B7%20AI%20%26%20homelab%20%C2%B7%20IRB%20crew%20%40%20Merewether%20SLSC&descSize=17&descAlignY=58" alt="Jackson Yowe" />
 </p>
 
-<!-- ‚ñë‚ñë ANIMATED TYPING TAGLINE ‚ñë‚ñë -->
+<!-- ANIMATED TYPING TAGLINE -->
 <p align="center">
   <a href="https://jackson.yowe.me">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=900&color=7DF9FF&center=true&vCenter=true&width=720&lines=Student+¬∑+Newcastle%2C+NSW+%E2%80%94+33.42%C2%B0S;AI+%26+self-hosting+¬∑+homelab+on+Proxmox+%2B+Docker;IRB+crew+%26+surf+lifeguard+%40+Merewether+SLSC;Hiking+and+travel+when+school's+out" alt="typing tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=900&color=7DF9FF&center=true&vCenter=true&width=720&lines=Student+%C2%B7+Newcastle%2C+NSW;AI+%26+self-hosting+%C2%B7+homelab+on+Proxmox+%2B+Docker;IRB+crew+%26+surf+lifeguard+%40+Merewether+SLSC;Hiking+and+travel+when+school+is+out" alt="typing tagline" />
   </a>
 </p>
 
-<!-- ‚ñë‚ñë QUICK LINKS ‚ñë‚ñë -->
+<!-- QUICK LINKS -->
 <p align="center">
   <a href="https://jackson.yowe.me"><img src="https://img.shields.io/badge/Portfolio-jackson.yowe.me-7DF9FF?style=for-the-badge&labelColor=07070A&color=07070A" alt="Portfolio" /></a>
   <a href="mailto:jackson@yowe.me"><img src="https://img.shields.io/badge/Email-jackson%40yowe.me-B8B4FF?style=for-the-badge&labelColor=07070A&logo=gmail&logoColor=B8B4FF" alt="Email" /></a>
@@ -26,19 +26,19 @@
 
 <br/>
 
-<!-- ‚ñë‚ñë ABOUT ‚ñë‚ñë -->
+<!-- ABOUT -->
 ### `// about`
 
 ```text
 High school student in Newcastle, NSW. I run a home server, build AI and
-self-hosting projects, and ship most of my work on GitHub. In summer I'm
-IRB crew and a surf lifeguard at Merewether SLSC. When school's out:
+self-hosting projects, and ship most of my work on GitHub. In summer I am
+IRB crew and a surf lifeguard at Merewether SLSC. When school is out:
 long-distance hiking and travel.
 ```
 
 <br/>
 
-<!-- ‚ñë‚ñë TECH STACK ‚ñë‚ñë -->
+<!-- TECH STACK -->
 ### `// stack`
 
 <p>
@@ -59,7 +59,7 @@ long-distance hiking and travel.
 
 <br/>
 
-<!-- ‚ñë‚ñë FEATURED PROJECTS ‚ñë‚ñë -->
+<!-- FEATURED PROJECTS -->
 ### `// featured`
 
 <table>
@@ -90,7 +90,7 @@ long-distance hiking and travel.
 
 <br/>
 
-<!-- ‚ñë‚ñë GITHUB STATS ‚ñë‚ñë -->
+<!-- GITHUB STATS -->
 ### `// stats`
 
 <p align="center">
@@ -102,12 +102,12 @@ long-distance hiking and travel.
   <img src="https://streak-stats.demolab.com?user=JacksonYowe&hide_border=true&background=07070A&stroke=7DF9FF&ring=7DF9FF&fire=FF5A8C&currStreakLabel=7DF9FF&sideLabels=F5F1EA&dates=B8B4FF&currStreakNum=F5F1EA&sideNums=F5F1EA&dayLabels=B8B4FF" alt="streak" />
 </p>
 
-<!-- ‚ñë‚ñë CONTRIBUTION SNAKE (needs the GitHub Action ‚Äî see guide) ‚ñë‚ñë -->
+<!-- CONTRIBUTION SNAKE (needs the GitHub Action - see guide) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/JacksonYowe/JacksonYowe/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </p>
 
-<!-- ‚ñë‚ñë FOOTER WAVE ‚ñë‚ñë -->
+<!-- FOOTER WAVE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b8b4ff,45:7df9ff,100:07070a&height=110&section=footer" alt="" />
 </p>
