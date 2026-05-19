@@ -94,11 +94,6 @@ long-distance hiking and travel.
 ### `// stats`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JacksonYowe&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=07070A&title_color=7DF9FF&text_color=F5F1EA&icon_color=B8B4FF" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonYowe&layout=compact&hide_border=true&bg_color=07070A&title_color=7DF9FF&text_color=F5F1EA" alt="top langs" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=JacksonYowe&hide_border=true&background=07070A&stroke=7DF9FF&ring=7DF9FF&fire=FF5A8C&currStreakLabel=7DF9FF&sideLabels=F5F1EA&dates=B8B4FF&currStreakNum=F5F1EA&sideNums=F5F1EA&dayLabels=B8B4FF" alt="streak" />
 </p>
 
